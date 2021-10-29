@@ -1,6 +1,3 @@
-# shooter-assignment-Kcav9
-shooter-assignment-Kcav9 created by GitHub Classroom
-
 
 -----BELANGRIJKE INFO-----
 
